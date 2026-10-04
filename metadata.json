@@ -1,0 +1,6 @@
+{
+  "name": "Spark & Shine Mobile Car Wash Bushbuckridge",
+  "description": "Professional door-to-door mobile car wash servicing all areas in Bushbuckridge. Provide location via WhatsApp. We bring our own water and equipment straight to your home or rank. Sedan R70, Mini SUV R80, SUV & Bakkie R100, Taxi R110, Mini Bus 22-Seater R130, Truck R150.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
